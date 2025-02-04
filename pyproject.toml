@@ -1,0 +1,5 @@
+[project]
+name = "open-index"
+version = "0.1.0"
+description = "Deterministic memory layer for your agents"
+requires-python = ">=3.10"
